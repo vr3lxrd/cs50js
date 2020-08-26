@@ -1,5 +1,4 @@
 ## Problem Set 1
----------------------------------------------------------------------------------------------------------------
 
 *Problemas simples com apenas 1 argumento serão feitos do jeito básico, chamando o argumento de função.*
 
