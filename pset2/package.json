@@ -1,0 +1,17 @@
+{
+  "name": "pset2",
+  "version": "1.0.0",
+  "description": "*Vamos usar um pacote chamado 'readline-sync' para conseguir respostas do usuário.*\r ---------------------------------------------------------------------------------------------------------------\r *We're going to use the package 'readline-sync' to get input from the user.*",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node substitution/substitution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
